@@ -1,0 +1,44 @@
+:root{
+
+    /* Brand */
+
+    --primary:#09735E;
+
+    --dark:#141414;
+
+    --accent:#D6D9FF;
+
+    --white:#FFFFFF;
+
+    --light:#F8F9FC;
+
+    --gray:#707070;
+
+    --danger:#E53935;
+
+    --success:#2ECC71;
+
+
+
+    /* Typography */
+
+    --font-primary:'Raleway', serif;
+
+
+
+    /* Layout */
+
+    --container:1200px;
+
+    --radius:18px;
+
+    --shadow:0 12px 30px rgba(0,0,0,.08);
+
+
+
+
+    /* Animation */
+
+    --transition:.35s ease;
+
+}
